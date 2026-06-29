@@ -1,40 +1,65 @@
-<h1 align="left">Hello! :)</h1>
+# BestChriii
 
-###
+Junior Developer from Italy
 
-My name is [CrystianYYT](https://crystianyyt.ltervista.org) and I'm a Jr. Developer, from Italy
+I develop software, backend systems and Minecraft plugins.
 
-###
+Focused on Java development, clean code and building useful projects.
 
-<h2 align="left">About me</h2>
-I have 20 years old and I like pizza.
+---
 
-<h2 align="left">I code with</h2>
+## About Me
 
-###
+I'm a developer interested in:
+
+- Java applications
+- Minecraft plugin development
+- Backend development
+- APIs and databases
+- Automation and tools
+
+Always learning and improving my projects.
+
+---
+
+## Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
+
+[![Tech Stack](https://skillicons.dev/icons?i=java,kotlin,py,js,ts,cs,cpp,c,go,php,lua,nodejs,django,fastapi,flask,laravel,dotnet,react,nextjs,html,css,git,github,docker,gradle,maven,mysql,sqlite,nginx,linux,vscode,idea&perline=10)](https://skillicons.dev)
+
 </div>
 
-###
+---
+
+## GitHub Stats
+
+<div align="left">
+
+<img height="170" src="https://github-readme-stats-alpha-orcin-77.vercel.app/api?username=bestchriii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats-alpha-orcin-77.vercel.app/api/top-langs/?username=bestchriii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
+
+</div>
+
+---
+
+## Activity
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=bestchriii&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/bestchriiidev/bestchriiidev/output/github-snake-dark.svg"/>
+
+---
+
+## Links
+
+GitHub  
+https://github.com/bestchriii
+
+Discord  
+bestchriii
+
+Email  
+bestchriii@gmail.com
