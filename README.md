@@ -49,17 +49,17 @@ Always learning and improving my projects.
 
 <br>
 
-[<img src="https://raw.githubusercontent.com/bestchriiidev/bestchriiidev/output/github-snake-dark.svg"/>](https://raw.githubusercontent.com/BestChriii/BestChriii/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/bestchriiidev/bestchriiidev/output/github-snake-dark.svg"/>
 
 ---
 
 ## Links
 
 GitHub  
-https://github.com/bestchriii
+[BestChriii](https://github.com/bestchriii)
 
 Discord  
-bestchriii
+[BestChriii](https://discord.com/users/1089974561648414770)
 
 Email  
-bestchriii@gmail.com
+[bestchriii@gmail.com](mailto:bestchriii@gmail.com)
