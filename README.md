@@ -1,4 +1,8 @@
-# BestChriii
+<div align="left">
+
+# BestChriii <img src="https://komarev.com/ghpvc/?username=BestChriii&style=for-the-badge" align="right"/>
+
+</div>
 
 Junior Developer from Italy
 
