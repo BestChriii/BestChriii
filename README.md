@@ -49,7 +49,7 @@ Always learning and improving my projects.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/bestchriiidev/bestchriiidev/output/github-snake-dark.svg"/>
+[<img src="https://raw.githubusercontent.com/bestchriiidev/bestchriiidev/output/github-snake-dark.svg"/>](https://raw.githubusercontent.com/BestChriii/BestChriii/output/github-snake-dark.svg)
 
 ---
 
